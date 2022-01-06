@@ -1,0 +1,2 @@
+Ram eats food
+Food is eaten by Ram
