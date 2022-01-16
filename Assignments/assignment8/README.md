@@ -1,4 +1,4 @@
-# ASSIGNMENT GIVEN: JAN 16, DEADLINE: JAN 17;
+# ASSIGNMENT SUBMITTED JAN 16 DUE DATE JAN 16;
 # Commonly used methods of Graphics class:
 
 * public abstract void drawString(String str, int x, int y): is used to draw the specified string.
